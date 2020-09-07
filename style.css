@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     width: 60%;
     height: 700px;
-    background-color: #657B8B;
+    background-color: #DDA0DD;
     display: flex;
     justify-content: flex-end;
 }
@@ -18,8 +18,9 @@ body {
 .container__left-side {
     width: 35%;
     height: 690px;
-    background-color: #FFEEDD;
+    background-color: #E6E6FA;
     margin: 5px 0;
+    text-align: justify;
 }
 
 .photo {
@@ -30,7 +31,7 @@ body {
 
 .title-text {
     text-align: center;
-    color: #657B8B;
+    color: #800080;
 }
 
 h2 {
@@ -42,7 +43,7 @@ h3 {
 }
 
 .text {
-    color: #657B8B;
+    color: #800080;
     margin: 0 5%;
 }
 
@@ -52,8 +53,8 @@ h3 {
 }
 
 .text-title {
-    background-color: #FFEEDD;
-    color: #657B8B;
+    background-color: #E6E6FA;
+    color: #800080;
     font-weight:  bold;
     padding: 1%;
     text-transform: uppercase;
